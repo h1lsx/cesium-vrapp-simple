@@ -1,4 +1,0 @@
-[submodule "cesium"]
-	path = htdocs/lib/cesium
-	url = git@github.com:pupitetris/cesium-webxr.git
-	branch = webxr-poc
